@@ -132,4 +132,29 @@ footer p{
 		margin: 20px;
 
 }
+footer .menu ul{
+        display: flex;
+        flex-direction: column;
 
+}
+footer .menu ul li{
+        list-style: none;
+}
+footer .menu ul li a{
+        color: white;
+        text-decoration: none;
+}
+footer .menu ul{
+        display: flex;
+        flex-direction: column;
+}
+footer .menu ul li{
+        list-style: none;
+        margin: 5px 0 5  5px 20px;
+}
+footer .menu ul li a{
+        color: white;
+        text-decoration: none;
+}
+footer .menu ul li a:hover{
+        color: red;
